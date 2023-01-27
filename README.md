@@ -2,7 +2,7 @@
 
 27.1.2023
 
-- This is for first commit. I'm learning Laravel and Vue.
+- This is for first commit as I'm learning PHP, Laravel and Vue. Well PHP again.
 - Today I have done as Bootcamp have told me to. This is Chirper thing with Intertia, Vue, Blade.
 - I call it Tsirp, so it sounds like it is little more my own.
 
